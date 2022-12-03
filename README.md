@@ -10,3 +10,8 @@ Making DB Changes:
 - `flask db upgrade`
 
 
+Making API changes:
+- via [flask-restful](https://flask-restful.readthedocs.io/en/latest/quickstart.html#a-minimal-api)
+
+
+
